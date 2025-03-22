@@ -28,10 +28,4 @@ To run this project, you need the following:
 - `PIL` (Pillow)
 - `gTTS`
 
-## Installation
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/storybook-gen.git
-   cd storybook-gen
